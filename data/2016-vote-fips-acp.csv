@@ -3025,7 +3025,7 @@ fips,acp_type,county,st,total_votes,lead,st_name,trump,clinton,other
 06075,14,San Francisco County,CA,403358,Hillary Clinton,California,37688,345084,20586
 06085,14,Santa Clara County,CA,697258,Hillary Clinton,California,144826,511684,40748
 08031,14,Denver County,CO,331852,Hillary Clinton,Colorado,62690,244551,24611
-11001,14,District of Columbia,DC,304717,Hillary Clinton,,12723,282830,9164
+11001,14,District of Columbia,DC,304717,Hillary Clinton,District of Columbia,12723,282830,9164
 12031,14,Duval County,FL,432684,Donald Trump,Florida,211672,205704,15308
 12086,14,Miami-Dade County,FL,980204,Hillary Clinton,Florida,333999,624146,22059
 13121,14,Fulton County,GA,430599,Hillary Clinton,Georgia,117783,297051,15765
